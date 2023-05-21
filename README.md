@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **UI/UX**
 
-- 📫 How to reach me **shweta072016@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shwetaeladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shwetaeladi" height="30" width="40" /></a>
